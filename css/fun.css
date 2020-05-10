@@ -1,0 +1,28 @@
+.site-header {
+    color: black;
+    background-color: rgb(253, 200, 86);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+
+}
+.site-header-content {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.picture {
+    width: 300px;
+    height: 400px;
+    box-shadow: black;
+
+}
+body {
+    margin: 0px;
+}
